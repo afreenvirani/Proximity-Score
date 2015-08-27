@@ -11,20 +11,25 @@ Objective:
 
 Scoring Criteria
 
-Take the 2 input files (provided monthly by James Wade, PAS), create field (columns in table) to track scoring for each criteria, apply criteria, and update the appropriate field.
+Take the 2 input files (Sales and Resales), create field (columns in table) to track scoring for each criteria, apply criteria, and update the appropriate field.
 
 Criteria
 a) Within Buyout Target areas
+
 a.	Approved - 10
 b.	Other – 5
 c.	Within 100’ buffer of approved - 3
 d.	Within 100' buffer of Other– 1
 e.	Outside 100’ buffer - 0
+
 b) Proximity to Ultimate ROW
+
 a.	Main channel - 5
 b.	Tributary - 3
 c.	Else - 0
+
 c) Proximity to ROW Acquired Buffer
+
 a.	Within 10’ of ROW acquired - 5
 b.	Within 100' of ROW acquired - 0.5
 c.	Outside 100’ of buffer - 0
